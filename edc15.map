@@ -1,0 +1,16 @@
+[main]
+crypt=1
+
+[section1]
+key=\x24\xAA\x5A\x23\x84\x21\x41\xE1\x55\xB2\x3F
+ignore=1
+
+[section2]
+ignore=1
+
+[section3]
+start=0x0000
+filesize=0x80000
+
+[section4]
+ignore=1
